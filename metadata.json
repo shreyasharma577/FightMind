@@ -1,0 +1,6 @@
+{
+  "name": "FIGHT//MIND: Imagine. Create. Fight.",
+  "description": "Create custom fighters from natural language prompts and battle in real-time arcade combat with adaptive AI and dynamic abilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
